@@ -24,7 +24,7 @@
   🌱 used it at least once!
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/NODE-97F003?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE-97F003?style=flat-square&logo=Node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/REACT-03F0E3?style=flat-square&logo=React&logoColor=white"/>  
 <br/>
   Hit my git
