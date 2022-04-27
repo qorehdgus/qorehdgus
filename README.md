@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  반갑습니다! 백동현입니다!
-  기계전공을 졸업했으며 22년도부터 개발공부를 시작했습니다!
+  반갑습니다! 백동현입니다!<br/>
+  기계전공을 졸업했으며 22년도부터 개발공부를 시작했습니다!<br/>
   멀티캠퍼스 풀스택 과정을 이수중에 있으며 덕분에 개발하는 재미를 배워가고 있는 중입니다!
   
   
@@ -30,9 +30,7 @@
 <br/>
 <br/>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqorehdgus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqorehdgus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorehdgus&&show_icons=true&theme=radical)
   
   [![Solved.ac
