@@ -9,21 +9,18 @@
 <img src="https://img.shields.io/badge/JAVA-00A4FF?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA SCRIPT-FFEF00?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-ABFF00?style=flat-square&logo=css3&logoColor=white"/>
-
   <br/>
 <img src="https://img.shields.io/badge/SPRING-30FF00?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRINGBOOT-45BF02?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/TOMCAT-F0E803?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 <br/>
 <br/>
-
   🌱 used it at least once!
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/NODE-97F003?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-03F0E3?style=flat-square&logo=React&logoColor=white"/>  
 <br/>
-
   Hit my git
 <br/>
 <br/>
