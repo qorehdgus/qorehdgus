@@ -36,7 +36,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorehdgus&&show_icons=true&theme=radical)
   
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=Silver)](https://solved.ac/qorehdgus2)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=qorehdgus2)](https://solved.ac/qorehdgus2)
 </div>
 
 
