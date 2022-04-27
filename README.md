@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/SPRING-30FF00?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRINGBOOT-0CEA25?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <br/>
-<img src="https://img.shields.io/badge/MYSQL-31C3F7?style=flat-square&logo=MySQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/MYSQL-31C3F7?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
 <img src="https://img.shields.io/badge/TOMCAT-F0E803?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
 <br/>
