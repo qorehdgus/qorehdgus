@@ -26,7 +26,9 @@
 
 <br/>
   📫 Houw to reach me!!
-  <img src="https://img.shields.io/badge/CSS-ABFF00?style=flat-square&logo=Mail.Ru&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/email-#005FF9?style=flat-square&logo=Mail.Ru&logoColor=black" href='qeg2@naver.com'/>
+  <br/>
   email: qeg2@naver.com
   <br/>
   Hit my git
