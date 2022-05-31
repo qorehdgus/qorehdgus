@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/NODE-97F003?style=flat-square&logo=Node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/REACT-03F0E3?style=flat-square&logo=React&logoColor=white"/>  
 <br/>
-  📫 Houw to reach me!!
+  📫 How to reach me!!
 <br/>
   <br/>
 <a href="mailto:qeg2@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
