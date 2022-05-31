@@ -27,7 +27,7 @@
 <br/>
   📫 Houw to reach me!!
   <br/>
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <a href="mailto:qeg2@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <br/>
   email: qeg2@naver.com
   <br/>
