@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcom&fontSize=90&desc=Baek's%20git&descAlign=64&descAlignY=65)
 
 <div align="center">
-
-  반갑습니다! 백동현입니다!<br/>
-  기계전공을 졸업했으며 22년도부터 개발공부를 시작했습니다!<br/>
-  멀티캠퍼스 풀스택 과정을 이수중에 있으며 무엇이든 하면 된다는 정신으로 임하고 있습니다!
   
-  
-  😄 I can use this! 
+  🌱 I've been working on a project using these skills!!
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -32,6 +27,9 @@
   Hit my git
 <br/>
 <br/>
+  📫 Houw to reach me!!
+  email: qeg2@naver.com
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqorehdgus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorehdgus&&show_icons=true&theme=radical)
